@@ -79,7 +79,7 @@
 <body>
 		<div class="wrap1">
 			<div class="row1">
-				<div><img src="Dinesh.jpg" class="img"></div>
+				<div><img src="ME.2.jpg" class="img"></div>
 				<div class="alignright pad20">
 					<h4>Sahil</h4>
 					<p>Web Developer<br>
@@ -100,17 +100,17 @@
 <div class="wrap2">
 			<div class="row4">
 				<div>
-					<img src="background.jpeg">
+					<img src="AIForeveryone.jpg">
 					<p>Project Title 1</p>
 					<p>Project Description 1</p>
 				</div>
 				<div>
-					<img src="background.jpeg">
+					<img src="Amazon.jpg">
 					<p>Project Title 2</p>
 					<p>Project Description 2</p>
 				</div>
 				<div>
-					<img src="background.jpeg">
+					<img src="CertificateofExcellence.jpg">
 					<p>Project Title 3</p>
 					<p>Project Description 3</p>
 				</div>
@@ -120,17 +120,17 @@
 <div class="wrap2">
 			<div class="row5">
 				<div>
-					<img src="background.jpeg">
+					<img src="FirstInPaint.jpg">
 					<p>Project Title 4</p>
 					<p>Project Description 4</p>
 				</div>
 				<div>
-					<img src="background.jpeg">
+					<img src="NSSfoundationDay.jpg">
 					<p>Project Title 5</p>
 					<p>Project Description 5</p>
 				</div>
 				<div>
-					<img src="background.jpeg">
+					<img src="ParticipationQuizomania.jpg">
 					<p>Project Title 6</p>
 					<p>Project Description 6</p>
 				</div>
