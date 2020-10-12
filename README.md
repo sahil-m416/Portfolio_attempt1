@@ -79,7 +79,7 @@
 <body>
 		<div class="wrap1">
 			<div class="row1">
-				<div><img src="ME.2.jpg" class="img"></div>
+				<div><img src="ME2.jpg" class="img"></div>
 				<div class="alignright pad20">
 					<h4>Sahil</h4>
 					<p>Web Developer<br>
